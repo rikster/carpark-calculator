@@ -4,7 +4,7 @@
 <blockquote>
 <a href="https://cloud.mongodb.com/"><strong>Mongo Atlas</strong></a>.<br>
 <strong>Login:</strong> pkrammer965@gmail.com<br>
-<strong>Pw:</strong><em>password</em><br>
+<strong>Pw: </strong><em>password</em><br>
 <strong>Cluster:</strong>Carpark_Calculator<br>
 <strong>Database:</strong>CarparkDB<br>
 <strong>Collection:</strong>Carpark<br>
