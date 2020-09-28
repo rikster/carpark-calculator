@@ -11,8 +11,9 @@ app.get('/welcome', (req, res) =>
 //Define Routes in other dirs/files
 app.use('/api/auth', require('./routes/auth'));
 app.use('/api/standard', require('./routes/standard'));
+app.use('/api/special', require('./routes/special'));
 //app.use("/api/users", require("./routes/users"));
-//app.use('/api/special', require('./routes/special'));
+
 
 const PORT = process.env.PORT || 5001;
 

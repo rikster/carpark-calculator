@@ -7,3 +7,13 @@ const router = express.Router();
 router.get("/", (req, res) => {
   res.send("Get special price list");
 });
+
+// @route       POST api/special
+// @desc        Post a special price list
+// @access      Private
+router.get("/", (req, res) => {
+  res.send("Post a special price list");
+});
+
+module.exports = router;
+
