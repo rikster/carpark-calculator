@@ -1,16 +1,6 @@
 <h1>Carpark React Application</h1> 
 
-<h4>Database Access</h4>
-<blockquote>
-<a href="https://cloud.mongodb.com/"><strong>Mongo Atlas</strong></a>.<br>
-<strong>Login:</strong> pkrammer965@gmail.com<br>
-<strong>Pw: </strong><em>password</em><br>
-<strong>Cluster:</strong>Carpark_Calculator<br>
-<strong>Database:</strong>CarparkDB<br>
-<strong>Collection:</strong>Carpark<br>
-<strong>Node Connection String:</strong> <br>
-mongodb+srv://test123:<password>@cluster0.yxhcs.mongodb.net/<dbname>?retryWrites=true&w=majority<br><br>
-</blockquote>
+
 
    
 
@@ -85,5 +75,17 @@ table for calculating the total price.
 
 Note: The customer should get the cheapest deal based on the rules which 
 apply to the time period.
+
+<h4>Database Access</h4>
+<blockquote>
+<a href="https://cloud.mongodb.com/"><strong>Mongo Atlas</strong></a>.<br>
+<strong>Login:</strong> pkrammer965@gmail.com<br>
+<strong>Pw: </strong><em>password</em><br>
+<strong>Cluster:</strong>Carpark_Calculator<br>
+<strong>Database:</strong>CarparkDB<br>
+<strong>Collection:</strong>Carpark<br>
+<strong>Node Connection String:</strong> <br>
+mongodb+srv://test123:<password>@cluster0.yxhcs.mongodb.net/<dbname>?retryWrites=true&w=majority<br><br>
+</blockquote>
 
 
